@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request
 from datetime import datetime
 import json
-from chat import tellme_bot
+from mychat import tellme_bot
 
 app = Flask(__name__)
 
