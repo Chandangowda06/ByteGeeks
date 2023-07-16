@@ -1,0 +1,21 @@
+{
+    "products": [
+      {
+        "name": "Product 1",
+        "description": "Description of Product 1",
+        "price": 10.99
+      },
+      {
+        "name": "Product 2",
+        "description": "Description of Product 2",
+        "price": 19.99
+      }
+    ],
+    "floors":[
+        {
+            "floor1":["mens","kids"],
+            "floor2":["womens","kids"]
+        }
+    ]
+  }
+  
