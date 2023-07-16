@@ -1,10 +1,12 @@
 from flask import Flask, render_template
+from datetime import datetime
 
 app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return render_template('home.html')
+    cur_year = datetime.now().year
+    return render_template('home.html',year=cur_year )
 
 if __name__ == '__main__':
     app.run(debug=True)
