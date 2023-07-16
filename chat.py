@@ -28,6 +28,18 @@ pairs = [
         ['My name is chandu',]
     ],
     [
+        r"ByteGeeks",
+        ['ByteGeeks is our company name',]
+    ],
+    [
+        r"what is meaning for ByteGeeks",
+        ['Where "byte" symbolizes our mastery of system memory and "geeks" reflects our unwavering passion for all things computer-related. Together, we embody a team driven by technical prowess and an insatiable curiosity to explore the realms of technology.',]
+    ],
+    [
+        r"information about your developers team",
+        ['Our talented developers, led by Chandan, including Pavana, Ananya, and Gayathri, form a formidable team that consistently delivers exceptional results. Together, we leverage our expertise and passion to push the boundaries of innovation and achieve remarkable milestones in our projects.',]
+    ],
+    [
         r'what is your purpose job work',
         ["I'm here to make your shopping experience easier. Let me know if there's anything I can do to assist you",]
     ],
